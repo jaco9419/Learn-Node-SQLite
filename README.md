@@ -6,4 +6,6 @@ You can check out the code all you want. This is what each app.js file does:
 
 **app2.js** Retrieves only one row.
 
-**app3.js** Uses Placeholders
+**app3.js** Uses Placeholders.
+
+**app4.js** Uses db.run() and handles erros.
