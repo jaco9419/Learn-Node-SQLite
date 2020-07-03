@@ -10,7 +10,7 @@ You can check out the code all you want. This is what each app.js file does:
 
 **app4.js** Uses db.run() and handles erros.
 
-**app4.js** Uses db.each().
+**app5.js** Uses db.each().
 
 _________________________
 Note: db.sqlite is empty.
