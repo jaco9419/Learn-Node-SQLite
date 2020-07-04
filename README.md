@@ -12,5 +12,7 @@ You can check out the code all you want. This is what each app.js file does:
 
 **app5.js** Uses db.each().
 
+**app6.js** startd with unserialized queries, which caused all the action to be carried out in parallel. Using db.serialize(), they are executed in order.
+
 _________________________
 Note: db.sqlite is empty.
